@@ -9,6 +9,6 @@ while i <= N
  i=i+1;
  p0=p;
 end
-dbtype('newton_n.m')
-display(f)
-display(df)
+%dbtype('newton_n.m')
+%display(f)
+%display(df)

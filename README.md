@@ -2,23 +2,23 @@
 
 ### 1. Mathematical Preliminaries and Error Analysis
 
-- Absolute Value
+- Absolute Value (o)
 
-- Actual Error
+- Actual Error (o)
 
-- Absolute Error
+- Absolute Error (o)
 
-- Relative Error
+- Relative Error (o)
 
 ### 2. Solution of Equations in One Variable
 
 - The Bisection Method (o)
 
-- The Fixed-Point Iteration
+- The Fixed-Point Iteration (o)
 
 - The Newton's Method (o)
 
-- The Secant Method
+- The Secant Method (o)
 
 - The Method of False Postion (o)
 
