@@ -2,69 +2,69 @@
 
 ### 1. Mathematical Preliminaries and Error Analysis
 
-- Absolute Value (o)
+- Absolute Value
 
-- Actual Error (o)
+- Actual Error
 
-- Absolute Error (o)
+- Absolute Error
 
-- Relative Error (0)
+- Relative Error
 
 ### 2. Solution of Equations in One Variable
 
 - The Bisection Method (o)
 
-- The Fixed-Point Iteration (o)
+- The Fixed-Point Iteration
 
 - The Newton's Method (o)
 
-- The Secant Method (o)
+- The Secant Method
 
 - The Method of False Postion (o)
 
 ### 3. Interpolation and Polynomial Approximation
 
-- Data Approximation and Neville's Method (o) --> needs to test and update
+- Data Approximation and Neville's Method
 
-- Divided Differences (o) --> needs to test and update
+- Divided Differences
 
-- Hermite Interpolation (o)
+- Hermite Interpolation
 
 ### 4. Numerical Differentiation and Integration
 
-- Three-Point Midpoint Formula (o)
+- Three-Point Midpoint Formula
 
-- Three-Point Endpoint Formula (o)
+- Three-Point Endpoint Formula
 
-- Five-Point Midpoint Formula (o)
+- Five-Point Midpoint Formula
 
-- Five-Point Endpoint Formula (o)
+- Five-Point Endpoint Formula
 
-- Composite Simpson's Rule (o)
+- Composite Simpson's Rule
 
-- Composite Trapezoidal Rule (o)
+- Composite Trapezoidal Rule
 
-- Composite Midpoint Rule (progress)
+- Composite Midpoint Rule
 
-- Romberg Integration (progress)
+- Romberg Integration
 
-- Adaptive Quadrature Method (progress)
+- Adaptive Quadrature Method
 
-- Simpson's Double Integral (o)
+- Simpson's Double Integral
 
-- Gaussian Double Integral (o) --> needs to test
+- Gaussian Double Integral
 
-- Gaussian Triple Integral (progress)
+- Gaussian Triple Integral
 
 ### 5. Initial-Value Problems for Ordinary Differential Equations
 
-- Euler's Method (o)
+- Euler's Method
 
-- Runge Kutta Method (Order Four) (o)
+- Runge Kutta Method (Order Four)
 
-- Runge Kutta Fehlberg Method (o) --> needs to test more to find accurate outputs.
+- Runge Kutta Fehlberg Method
 
-- Adams Fourth Order Predictor Corrector (o)
+- Adams Fourth Order Predictor Corrector
 
 - Adams Variable Step Size Predictor Corrector
 
