@@ -24,9 +24,9 @@
 
 ### 3. Interpolation and Polynomial Approximation
 
-- Data Approximation and Neville's Method
+- Data Approximation and Neville's Method (o)
 
-- Divided Differences
+- Divided Differences (o)
 
 - Hermite Interpolation
 
