@@ -28,7 +28,7 @@
 
 - Divided Differences (o)
 
-- Hermite Interpolation
+- Hermite Interpolation (Progress)
 
 ### 4. Numerical Differentiation and Integration
 
