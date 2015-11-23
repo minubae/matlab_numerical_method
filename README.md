@@ -60,7 +60,7 @@
 
 ### 5. Initial-Value Problems for Ordinary Differential Equations
 
-- Euler's Method
+- Euler's Method (o)
 
 - Runge Kutta Method (Order Four)
 
