@@ -1,0 +1,4 @@
+function R = romberg(f,a,b,n)
+
+h=b-a;
+R=zeros(n,n);
