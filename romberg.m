@@ -1,3 +1,7 @@
+%% Romberg Integration
+% To approximate the integral I = integral from a to b f(x)dx, select an integer n > 0.
+% INPUT: Endpoints a, b; integer n.
+% OUTPUT: An array R (Compare R by rows; only teh last two rows are saved in storage).
 function R = romberg(f,a,b,n)
 
 h=b-a;
