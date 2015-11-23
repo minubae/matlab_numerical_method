@@ -30,6 +30,8 @@
 
 - Hermite Interpolation (Progress)
 
+- Romberg Integrationi (o)
+
 ### 4. Numerical Differentiation and Integration
 
 - Three-Point Midpoint Formula
