@@ -1,7 +1,7 @@
 %% Runge-Kutta (Order Four)
 % To approximate the solution of the initial-value problem y'=f(t,y), a <= t <= b, y(a) = ?,
 % at (N+1) equally spaced numbers in the interval [a,b]:
-% INPUT: Endpoints a, b; integer N; initial condition ?.
+% INPUT: Endpoints a, b; integer N; initial condition y0.
 % OUTPUT: Approximation w to y at the (N+1) values of t.
 function [t,w] = runge_kutta(f,a,b,ya,N)
 
