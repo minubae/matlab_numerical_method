@@ -19,7 +19,6 @@ for i=1:N
     
     w(i+1) = w(i) +(h/6)*(K1+2*K2+2*K3+K4);
     t(i+1) = a + i*h;
-    
 end
 
 format long
