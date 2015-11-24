@@ -12,6 +12,3 @@ while i <= N
      b=p;
  end
 end
-
-dbtype('bisection_n.m')
-display(f)
