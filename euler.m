@@ -5,15 +5,19 @@
 % at (N+1) equally spaced numbers in the interval [a,b]:
 % INPUT: Differential equation f(t,y); endpoints a, b; integer N; initial condition y0.
 % OUTPUT: Approximation w to y at the (N+1) values of t.
-function [t,y]=euler(f,a,b,ya,N)
+function [t,w]=euler(f,a,b,ya,N)
 
 h=(b-a)/N;
 t=zeros(N+1,1);
-y=zeros(N+1,1);
+w=zeros(N+1,1);
 t(1)=a;
-y(1)=ya;
+w(1)=ya;
 
-for k=1:N
-    t(k+1)=t(k)+h;
-    y(k+1)=y(k)+h*f(t(k),y(k));
+for i=1:N
+    t(i+1)=t(i)+h;
+    w(i+1)=w(i)+h*f(t(i),w(i));
 end
+
+format long
+disp('   t                   w')
+disp([t w])
